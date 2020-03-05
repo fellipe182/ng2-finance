@@ -1,0 +1,38 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "http://10.111.2.178/grafana/d/Cs68r3jiz/alertas-tv?orgId=1&refresh=5s&kiosk",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 30
+    },
+    {
+      "url": "https://amplify.nginx.com/overview/",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url": "https://analytics.google.com/analytics/web/?google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D85517d65ad834047:TM%3D1573470358:C%3D%3E:IP%3D187.94.103.252-:S%3DAPGng0sIJ-a6D1KQ4zYgKV4-3MptLSlGSQ%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DMon,+11-Nov-2019+14:05:58+GMT#/realtime/rt-overview/a61893511w96702557p100893507/",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 300
+    },
+    {
+      "url": "https://analytics.google.com/analytics/web/#/realtime/rt-overview/a61893511w207890846p200508205/",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 300
+    },
+    {
+      "url": "http://10.111.2.178/grafana/d/Z26EGGlZk/datasources?orgId=1&refresh=10s&from=now-5m&to=now&kiosk",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "http://tools.sgpe.sea.sc.gov.br/grafana/d/wG4JFj3mk/mongodb?orgId=1&refresh=5s&from=now-15m&to=now&kiosk",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
