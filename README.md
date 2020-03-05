@@ -72,4 +72,4 @@ $ ng test -sr -cc
 
 # License
 
-The MIT License
+The MIT License.
